@@ -35,7 +35,7 @@ prev.onclick = function(){
 
 let nextColor = function(){
   let color = function() {
-      return Math.round(Math.random()*50); 
+      return Math.round(Math.random()*80); 
   }
      return 'rgb(' + color() + "," + color() + "," + color() + ")";
 }
