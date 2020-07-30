@@ -10,7 +10,11 @@ header {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    color: rgb(139, 139, 138);
+    color: rgb(253, 253, 215);
+}
+
+header h1 {
+  letter-spacing: 10px;
 }
 
 .about {
